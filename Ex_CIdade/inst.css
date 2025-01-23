@@ -1,0 +1,47 @@
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #cbd8e6;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h2 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+/* Texto do corpo */
+p {
+    line-height: 1.6;
+    margin: 20px;
+    font-size: 1.1rem;
+}
+
+/* Rodapé */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.9rem;
+}
